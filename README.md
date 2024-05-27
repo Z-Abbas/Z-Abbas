@@ -15,3 +15,8 @@ I am Zeeshan Abbas, a dedicated researcher in the field of Artificial Intelligen
 <a href="https://www.linkedin.com/in/zeeshan-abbas-723596205/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/LinkedIn_Logo.svg/1280px-LinkedIn_Logo.svg.png" alt="LinkedIn" style="width:85px;height:25px;"/>
 </a>
+
+## Languages and Tools
+🐍 Python 
+📓 Jupyter 
+![image](https://github.com/Z-Abbas/Z-Abbas/assets/80881943/6f8221b2-f3da-4f55-94fb-3e3e3fc43176) Spyder
