@@ -19,7 +19,15 @@ I am Zeeshan Abbas, a dedicated researcher in the field of Artificial Intelligen
 ## Languages and Tools
 <img src="https://www.svgrepo.com/show/376344/python.svg" alt="Git" style="width:25px;height:25px;"/> Python 
 
-<img src="https://iconape.com/wp-content/files/si/370990/svg/370990.svg" alt="Git" style="width:25px;height:25px;"/> Spyder
-
 <img src="https://spyder-ide.github.io/lektor-icon/blog/example-formatting/spyder-logo.svg" alt="Git" style="width:25px;height:25px;"/> Spyder
+
+<img src="https://iconape.com/wp-content/files/si/370990/svg/370990.svg" alt="Git" style="width:25px;height:25px;"/> Jupyter
+
+<img src="https://static-00.iconduck.com/assets.00/tensorflow-icon-955x1024-hd4xzbqj.png" alt="Git" style="width:25px;height:25px;"/> Tensorflow
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/2048px-Keras_logo.svg.png" alt="Git" style="width:25px;height:25px;"/> Keras
+
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7TTMtG_-_O5KEJl8BHxQZ8IuuGMh2oGt9UmGbq2CGEg&s" alt="Git" style="width:25px;height:25px;"/> OpenCV
+
+
 
