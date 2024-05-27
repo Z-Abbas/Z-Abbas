@@ -19,4 +19,5 @@ I am Zeeshan Abbas, a dedicated researcher in the field of Artificial Intelligen
 ## Languages and Tools
 🐍 Python 
 📓 Jupyter 
-![image](https://github.com/Z-Abbas/Z-Abbas/assets/80881943/6f8221b2-f3da-4f55-94fb-3e3e3fc43176) Spyder
+<img src="https://www.i2tutorials.com/wp-content/media/2020/05/HOW-TO-CODE-IN-PYTHON-USING-SPYDER-6i2tutorials.png" alt="Git" style="width:25px;height:25px;"/> Spyder
+
